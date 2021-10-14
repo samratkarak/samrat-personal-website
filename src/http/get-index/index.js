@@ -7,19 +7,19 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
+    fullname: 'Samrat Karak', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
+    occupation: 'Product Manager',
     location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    bio: 'Samrat Karak is a Senior Product Manager on the Amazon CloudFront team based in Seattle. He is passionate about understanding and solving customer use cases with product features and serverless compute with Lambda@Edge. Samrat has over 15 years of experience building and managing products in Enterprise solutions and AWS.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
     email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
+    twitter: 'samrat_karak@',
+    linkedin: 'https://www.linkedin.com/in/samratkarak/',
     instagram: 'yourInsta',
     facebook: 'your-facebook-name',
 
